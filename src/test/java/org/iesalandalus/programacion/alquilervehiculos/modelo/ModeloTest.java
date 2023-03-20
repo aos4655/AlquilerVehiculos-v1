@@ -24,6 +24,7 @@ import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.IClientes;
 import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.IFuenteDatos;
 import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.IVehiculos;
 import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.memoria.Alquileres;
+import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.memoria.FactoriaFuenteDatos;
 import org.iesalandalus.programacion.alquilervehiculos.modelo.negocio.memoria.Vehiculos;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
